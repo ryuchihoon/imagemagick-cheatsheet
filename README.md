@@ -22,6 +22,16 @@ macOS
 
 ![keepcalmcodeon2.png](./keepcalmcodeon2.png) keepcalmcodeon2.png
 
+## How to specify color
+
+In brief:
+ - white, black, red, blue, ...
+ - '#00FF00' (#RRGGBB)
+ - 'rgb(0,255,0)'
+
+For more detail:
+ - Refer to [this site](https://imagemagick.org/script/color.php)
+
 ## List available fonts and font families
 
 You can check which font/family is available on your system.
